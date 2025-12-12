@@ -1,4 +1,4 @@
-#1. Introdução
+1. Introdução
 Este projeto consiste no desenvolvimento de um Modelo Preditivo de Risco Cardíaco baseado em aprendizado supervisionado de Classificação Binária. O objetivo é fornecer uma Ferramenta de Apoio à Decisão Clínica (CDSS) capaz de identificar pacientes de alto risco a partir de dados clínicos e demográficos não invasivos.
 
 
