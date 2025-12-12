@@ -3,7 +3,7 @@ Este projeto consiste no desenvolvimento de um Modelo Preditivo de Risco Cardía
 
 
 2. Metodologia e Pipeline
-O trabalho seguiu um pipeline rigoroso, destacando-se pela abordagem clinicamente fundamentada ao tratamento dos dados.
+O trabalho seguiu um pipeline abaixo, destacando-se pela abordagem clinicamente fundamentada ao tratamento dos dados.
 
 <img width="649" height="490" alt="image" src="https://github.com/user-attachments/assets/b16dc295-047d-4ebc-8846-fe712ffecaf9" />
 
